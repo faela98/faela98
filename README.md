@@ -9,6 +9,6 @@ Oie! Sou a Rafaela
 </div>
 
 <div>   
-    (https://github.com/faela98/faela98/blob/output/github-contribution-grid-snake.svg)
+    src="https://github.com/faela98/faela98/blob/output/github-contribution-grid-snake.svg
     </div>
 
