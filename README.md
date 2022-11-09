@@ -1,6 +1,6 @@
 Oie! Sou a Rafaela
 
-- 🔭 Estuando desinvolimento Web
+- 🔭 Estudando desenvolvimento Web
 - 😄 Pronouns: ela/dela
 <div align="center">
   <a href="https://github.com/faela98">
