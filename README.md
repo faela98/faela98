@@ -8,6 +8,4 @@ Oie! Sou a Rafaela
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faela98&layout=compact&langs_count=7&theme=onedark"/>
 </div>
   
-  <div> 
-   ![Snake animation](https://github.com/faela98/faela98/blob/output/github-contribution-grid-snake.svg)
-</div>
+
